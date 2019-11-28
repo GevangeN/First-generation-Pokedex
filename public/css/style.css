@@ -1,0 +1,139 @@
+h1 {
+    margin: 1rem;
+}
+
+h2 {
+    margin: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 250px;
+}
+body {
+    background-color: #C14040;
+    width: 1000px;
+    align-content: center;
+    margin: auto;
+}
+
+#header {
+    background-color: #EFE3E3;
+    border-radius: 1em;
+    margin-top: 1rem;
+    color: #C14040;
+    text-align: center;
+}
+.lien {
+    color: #C14040;
+}
+
+div#main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pokemonImgNam {
+    width: 300px;
+    background-color: #982C2C;
+    border-radius: 2em;
+    margin: 1rem;
+}
+
+.pokemonName {
+    text-align: center;
+    color: white;
+    margin: 1rem;
+    font-weight: bold;
+}
+
+.pokemonImage {
+    text-align: center;
+}
+
+.titre_detail {
+    color: white;
+    font-size: 2.5em;
+    text-align: center;
+    font-weight: bold;
+    margin: 1rem;
+}
+
+.onePokemon {
+    display: flex;
+}
+
+.onePokemonImg {
+    width: 40%;
+}
+
+img#imageOne {
+    width: 90%;
+}
+
+.onePokemonDetails {
+    background-color: #AB3838;
+    width: 65%;
+    border-radius: 1rem;
+}
+
+.nom {
+    font-size: 1.5em;
+    color: white;
+    margin: 1rem;
+    font-weight: bold;
+}
+
+h3 {
+    color: white;
+    font-size: 1.3em;
+    margin: 1rem;
+}
+
+.caractéristique {
+    margin-left: 1rem;
+    margin-bottom: 0.5rem;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+}
+
+.tabLettre {
+    width: 25%;
+}
+
+.tabNumero {
+    width: 10%;
+}
+
+.tabBarVide {
+    width: 60%;
+    background-color: #632B2B;
+    border-radius: 0.35rem;
+}
+
+.tabBarPlein {
+    background-color: white;
+    border-radius: 0.35rem;
+    height: 100%;
+}
+
+.retour {
+    margin: 1rem;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-transform: none;
+}
+
+.types {
+    margin: 1rem;
+    width: 300px;
+    background-color: pink;
+    border-radius: 2em;
+    margin: 1rem;
+}
